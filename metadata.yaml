@@ -1,10 +1,16 @@
 _repo: Pyhan-Patrikin-paiva-eli-Luutnantin-keinot-Ilveilys_49423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sheridan, P. B.
     gutenberg_agent_id: '45330'
     url: http://www.gutenberg.org/2009/agents/45330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49423#Pyhan-Patrikin-paiva-eli-Luutnantin-keinot-Ilveilys
 gutenberg_issued: '2015-07-12'
 gutenberg_type: Text
 identifiers:
